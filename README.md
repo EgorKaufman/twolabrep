@@ -1,5 +1,3 @@
-new function: wwww
+new functionnnnss
 
-
-autor: egor 
-blablabla
+autor: egor blablabla
