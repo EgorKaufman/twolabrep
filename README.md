@@ -1,3 +1,3 @@
-new functionnnnss
+#new functionnnnss
 
-autor: egor blablabla
+*autor*: <ins>egor</ins> <ins>**blablabla**</ins>
